@@ -1,0 +1,934 @@
+---
+references:
+- id: margoni:2011scientific
+  type: article-journal
+  author:
+  - family: Margoni
+    given: Thomas
+  - family: Perry
+    given: Mark
+  issued:
+  - year: 2011
+  accessed:
+  - year: 2014
+    month: 2
+    day: 4
+  title: 'Scientific and Critical Editions of Public Domain Works: An Example of
+    European Copyright Law (Dis)Harmonization'
+  title-short: Scientific and Critical Editions of Public Domain Works
+  container-title: Canadian Intellectual Property Review
+  page: 157–170
+  volume: 27
+  issue: 1
+  source: papers.ssrn.com
+  abstract: Despite the lack of unanimity among European nations on how to treat so-called
+    scientific and critical editions, most of these nations agree on the major proposition
+    that this kind of work should attract some kind of protection under neighbouring
+    rights doctrines in their copyright codes. Canada has no such provisions. This
+    article explores the neighbouring rights protection in some European nations and
+    shows that Canadian publishers of such editions should be aware of the diverse
+    range of protection that they are given in Europe and the potential liability
+    of Canadian publishers.En dépit de l’absence d’unanimité au sein des nations européennes
+    quant à la façon de traiter les soi-disant “éditions scientifiques et critiques”,
+    la majorité de ces nations s’entendent sur la proposition principale voulant que
+    ce type de travail mérite de faire l’objet d’une certaine forme de protection
+    en vertu des doctrines des droits voisins contenues dans leurs codes sur le droit
+    d’auteur. Le Canada ne possède pas de telles dispositions. Cet article explore
+    la protection qu’accordent les droits voisins de certaines nations européennes
+    et démontre que les éditeurs canadiens de ce type de publication devraient connaître
+    les différents types de protection dont ils bénéficient en Europe ainsi que des
+    obligations potentielles que les éditeurs doivent remplir.
+  URL: http://ssrn.com/abstract=1961535
+
+- id: fischer:2012all
+  type: article-journal
+  author:
+  - family: Fischer
+    given: Franz
+  issued:
+  - year: 2012
+  accessed:
+  - year: 2015
+    month: 6
+    day: 18
+  title: All texts are equal, but… Textual plurality and the critical text in digital
+    scholarly editions
+  container-title: Variants
+  page: 77-92
+  volume: 10
+  source: kups.ub.uni-koeln.de
+  abstract: 'Is there a future for the “old philology”? Why are “truly critical”
+    and “truly digital” editions so rare? This article discusses the questions raised
+    at the Leuven round table by showcasing two scholarly editions that claim to be
+    both digital and critical: the edition of William of Auxerre’s Summa de officiis
+    ecclesiasticis, an early thirteenth century Latin treatise on liturgy, and the
+    so-called HyperStack edition of Saint Patrick’s Confessio, a fifth-century open
+    letter by Ireland’s patron saint, also written in Latin and the oldest text that
+    has survived from Ireland in any language. In giving a comparative introduction
+    to both of these online editions — to their underlying methodology and theoretical
+    implications — I will make the following arguments: (1) Critical texts matter.
+    The critical reconstruction of an assumed original text version as intended by
+    an author remains of major interest for most textual scholars and historians as
+    well as any person with an interest in historical texts. (2) Critical texts have
+    the same legitimacy as various and different manifestations of a text. Digital
+    editions enable the presentation of textual plurality. (3) There is no reason
+    intrinsic to the digital medium that makes the idea of a critical text obsolete.
+    Rather, a critical text can serve as the standard reference, as an ideal text
+    to start with and as a portal to access the variety of textual manifestations
+    of a particular work.'
+  URL: http://nbn-resolving.org/urn:nbn:de:hbz:38-50569
+
+- id: west:1973textual
+  type: book
+  author:
+  - family: West
+    given: Martin L.
+  issued:
+  - year: 1973
+  title: Textual criticism and editorial technique applicable to Greek and Latin texts
+  publisher: Teubner
+  publisher-place: Stuttgart
+  event-place: Stuttgart
+  number-of-pages: 155
+  source: toroprod.library.utoronto.ca Library Catalog
+  ISBN: 3519074028
+  call-number: PA47 .W47
+
+- id: boyle:1976optimist
+  type: chapter
+  author:
+  - family: Boyle
+    given: Leonard E.
+  editor:
+  - family: O’Meara
+    given: John J.
+  - family: Naumann
+    given: Bernd
+  issued:
+  - year: 1976
+  title: 'Optimist and recensionist: “Common errors” or “common variations”?'
+  title-short: Optimist and recensionist
+  container-title: 'Latin script and letters, AD 400–900: Festschrift presented
+    to Ludwig Bieler on the occasion of his 70th birthday'
+  publisher: Brill
+  publisher-place: Leiden
+  event-place: Leiden
+  page: 264–274
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: 9004047255 9004047255
+
+- id: pierazzo:2014digital
+  type: article-journal
+  author:
+  - family: Pierazzo
+    given: Elena
+  issued:
+  - year: 2014
+  accessed:
+  - year: 2014
+    month: 11
+    day: 2
+  title: Digital documentary editions and the others
+  container-title: Scholarly Editing
+  volume: 35
+  URL: http://scholarlyediting.org/2014/essays/essay.pierazzo.html
+
+- id: gobbitt:2012orthographic
+  type: article-journal
+  author:
+  - family: Gobbitt
+    given: Thomas
+  issued:
+  - year: 2012
+  title: Orthographic preferences in the production of Cambridge, Corpus Christi College
+    MS 383 at the turn of the twelfth century
+  container-title: Scriptorium
+  page: 3–24
+  volume: 66
+
+- id: schmidt:2014towards
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: Desmond
+  issued:
+  - year: 2014
+    month: 11
+  accessed:
+  - year: 2014
+    month: 11
+    day: 16
+  title: Towards an interoperable digital scholarly edition
+  container-title: Journal of the Text Encoding Initiative
+  volume: 7
+  source: jtei.revues.org
+  abstract: 'Recent proposals for creating digital scholarly editions (DSEs) through
+    the crowdsourcing of transcriptions and collaborative scholarship, for the establishment
+    of national repositories of digital humanities data, and for the referencing,
+    sharing, and storage of DSEs, have underlined the need for greater data interoperability.
+    The TEI Guidelines have tried to establish standards for encoding transcriptions
+    since 1988. However, because the choice of tags is guided by human interpretation,
+    TEI-XML encoded files are in general not interoperable. One way to fix this problem
+    may be to break down the current all-in-one approach to encoding so that DSEs
+    can be specified instead by a bundle of separate resources that together offer
+    greater interoperability: plain text versions, markup, annotations, and metadata.
+    This would facilitate not only the development of more general software for handling
+    DSEs, but also enable existing programs that already handle these kinds of data
+    to function more efficiently.'
+  URL: http://jtei.revues.org/979
+  ISSN: 2162-5603
+  language: en
+
+- id: southern:1995towards
+  type: article-journal
+  author:
+  - family: Southern
+    given: R.W.
+  issued:
+  - year: 1995
+  accessed:
+  - year: 2015
+    month: 3
+    day: 3
+  title: Towards an Edition of Peter of Blois’s Letter-Collection
+  container-title: The English Historical Review
+  page: 925-937
+  volume: 110
+  issue: 438
+  source: CrossRef
+  URL: http://ehr.oxfordjournals.org/cgi/doi/10.1093/ehr/CX.438.925
+  DOI: 10.1093/ehr/CX.438.925
+  ISSN: 0013-8266, 1477-4534
+  language: en
+
+- id: fischer:1970use
+  type: article-journal
+  author:
+  - family: Fischer
+    given: Bonifatius
+  issued:
+  - year: 1970
+    month: 10
+  accessed:
+  - year: 2015
+    month: 6
+    day: 18
+  title: The use of computers in new testament studies, with special reference to
+    textual criticism
+  container-title: The Journal of Theological Studies
+  collection-title: n.s.
+  container-title-short: The Journal of Theological Studies
+  page: 297-308
+  volume: 21
+  issue: 2
+  source: JSTOR
+  URL: http://www.jstor.org/stable/23959273
+  DOI: 10.1093/jts/XXI.2.297
+  ISSN: 0022-5185
+
+- id: goering:1992william
+  type: book
+  author:
+  - family: Goering
+    given: Joseph
+  issued:
+  - year: 1992
+  title: 'William de Montibus (c. 1140–1213): The Schools and the Literature of
+    Pastoral Care'
+  title-short: William de Montibus
+  collection-title: Studies and Texts
+  collection-number: 108
+  publisher: Pontifical Institute of Mediaeval Studies
+  publisher-place: Toronto
+  event-place: Toronto
+  source: toroprod.library.utoronto.ca Library Catalog
+  note: 'Local call number: BV 4009 .W55 1992 SMC Local call number: BV 4009 .W55
+    1992 ROBA Local call number: B 720 .S93 v. 108 Reference and Stacks IMS Local
+    call number: BV 4009 .W55 1992 IMS Physical description: xii, 638 p Series: (Studies
+    and texts,ISSN0082-5328 ; 108) Subject, personal: William, de Montibus, ca. 1140-1213
+    Bibliography note: Includes bibliographical references (p. \[614\]-631) and index
+    Series: Studies and texts (Pontifical Institute of Mediaeval Studies) ; 108 key:
+    2593643'
+  ISBN: 0888441088
+  call-number: BV4009 .W55 1992
+
+- id: wordsworth:1889nouum
+  type: book
+  editor:
+  - family: Wordsworth
+    given: John
+  - family: White
+    given: Henry Julian
+  - family: Ramsbotham
+    given: Alexander
+  - family: Sparks
+    given: Hedley F.D.
+  - family: Jenkins
+    given: Claude
+  - family: Adams
+    given: Arthur White
+  issued:
+  - year: 1889
+  - year: 1954
+  title: Nouum Testamentum Domini nostri Iesu Christi Latine, secundum editionem sancti
+    Hieronymi
+  publisher: Clarendon Press
+  publisher-place: Oxford
+  event-place: Oxford
+  number-of-volumes: 3
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: BS1975 1889 v.2 pt.3 SMC
+  language: Latin
+
+- id: crane:2015getting
+  type: post-weblog
+  author:
+  - family: Crane
+    given: Gregory R.
+  issued:
+  - year: 2015
+    month: 3
+    day: 4
+  accessed:
+  - year: 2015
+    month: 6
+    day: 15
+  title: 'Getting to open data for Classical Greek and Latin: breaking old habits
+    and undoing the damage — a call for comment!'
+  title-short: Getting to open data for Classical Greek and Latin
+  container-title: Perseus Digital Library Updates
+  URL: https://sites.tufts.edu/perseusupdates/2015/03/04/getting-to-open-data-for-classical-greek-and-latin-breaking-old-habits-and-undoing-the-damage-a-call-for-comment/
+
+- id: weber:2007biblia
+  type: book
+  editor:
+  - family: Weber
+    given: Robert
+  - family: Fischer
+    given: Bonifatius
+  - family: Gribomont
+    given: Jean
+  - family: Sparks
+    given: Hedley F.D.
+  - family: Thiele
+    given: Walter
+  - family: Gryson
+    given: Roger
+  issued:
+  - year: 2007
+  title: Biblia Sacra iuxta vulgatam versionem
+  publisher: Deutsche Bibelgesellschaft
+  publisher-place: Stuttgart
+  event-place: Stuttgart
+  edition: 5
+  abstract: This edition of the Vulgate is a revised and corrected edition of Weber’s
+    Vulgata, prepared by Roger Gryson. It is based on the OT edition of the Benedictines
+    of St. Jerome’s Monastery in Rome, and the NT edition of Wordsworth and White.
+    It includes a critical apparatus and introduction in Latin, German, French, and
+    English. There is a new revised apparatus in the books of Ruth, Isaiah, and Revelation.
+  ISBN: 978-3-438-05303-9
+  language: Latin
+
+- id: wordsworth:1883oxford
+  type: book
+  author:
+  - family: Wordsworth
+    given: John
+  issued:
+  - year: 1883
+  accessed:
+  - year: 2014
+    month: 4
+    day: 28
+  title: The Oxford critical edition of the Vulgate New Testament
+  publisher-place: Oxford
+  event-place: Oxford
+  number-of-pages: 12
+  source: Hathi Trust
+  URL: http://hdl.handle.net/2027/yale.39002088448908
+
+- id: cropp:1991critical
+  type: thesis
+  author:
+  - family: Cropp
+    given: Laurel Susan
+  issued:
+  - year: 1991
+  accessed:
+  - year: 2013
+    month: 4
+    day: 29
+  title: A critical edition of Alexander Neckam’s *Corrogationes noui Promethei* with
+    introduction, textual notes, and commentary
+  title-short: Corrogationes noui Promethei
+  publisher: University of Toronto
+  number-of-pages: 369
+  source: ProQuest
+  genre: PhD diss.
+  abstract: The Corrogationes noui Promethei is a poem of 1630 lines written in elegiac
+    couplets by the English author Alexander Neckam (1157-1217), an important figure
+    in Anglo-Latin literature of the late twelfth and early thirteenth centuries.
+    Alexander was a prolific author with a wide range of interests. His works include
+    treatises on grammar,natural science, biblical exegesis and theology, as well
+    as a large number of sermons and a substantial body of poetry. The Corrogationes
+    noui Promethei is a long moral poem on the vices written late in Alexander’s life
+    with the apparent purpose of offering advice to abbots on the proper running of
+    their communities. While selections from the poem have been published before,
+    it has never been edited in its entirety and so has remained, along with the Suppletio
+    defectuum, one of the last two major poetic works by Alexander still in manuscript.
+    It is a work that contains much that is of interest and deserves an edition both
+    in its own right and as a product of one of the more prominent Anglo-Latin authors
+    of his time.
+  URL: http://search.proquest.com/docview/303956980
+  language: English
+
+- id: linde:2011how
+  type: book
+  author:
+  - family: Linde
+    given: Cornelia
+  issued:
+  - year: 2011
+  title: How to correct the Sacra scriptura? Textual criticism of the Latin Bible
+    between the twelfth and fifteenth century
+  title-short: How to correct the Sacra scriptura?
+  collection-title: Medium Ævum Monographs
+  collection-number: 29
+  publisher: Society for the Study of Medieval Languages and Literature
+  publisher-place: Oxford
+  event-place: Oxford
+  source: Open WorldCat
+  ISBN: 9780907570226  0907570224 (hbk.0
+  language: English
+
+- id: dain:1975manuscrits
+  type: book
+  author:
+  - family: Dain
+    given: Alphonse
+  issued:
+  - year: 1975
+  title: Les manuscrits
+  publisher: Belles lettres
+  publisher-place: Paris
+  event-place: Paris
+  number-of-pages: 222
+  edition: 3
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: Z105 .D3 1975
+  language: French
+
+- id: bentley:1721proposals
+  type: book
+  author:
+  - family: Bentley
+    given: Richard
+  issued:
+  - year: 1721
+  title: Proposals for Printing a New Edition of the Greek Testament, and St. Hierom’s
+    Latin Version
+  publisher: Knapton
+  publisher-place: London
+  event-place: London
+  number-of-pages: 44
+  source: Google Books
+  URL: http://hdl.handle.net/2027/uc1.31175035489742
+  language: en
+
+- id: wordsworth:1920nouum
+  type: book
+  editor:
+  - family: Wordsworth
+    given: John
+  - family: White
+    given: Henry Julian
+  issued:
+  - year: 1920
+  title: Nouum Testamentum Latine, secundum editionem sancti Hieronymi. Editio minor
+  title-short: Nouum Testamentum Latine
+  publisher: Clarendon Press
+  publisher-place: Oxford
+  event-place: Oxford
+  number-of-pages: 638
+  edition: 2
+  language: Latin
+
+- id: witt:2011commentarius
+  type: webpage
+  author:
+  - family: Witt
+    given: Jeffrey C.
+  issued:
+  - year: 2011
+  - year: 2013
+  title: Commentarius in libros Sententiarum
+  container-title: Petrus Plaoul. Editiones electronicas
+  URL: http://petrusplaoul.org/
+  language: Latin
+
+- id: parkes:1992pause
+  type: book
+  author:
+  - family: Parkes
+    given: M.B.
+  issued:
+  - year: 1992
+  title: 'Pause and effect: an introduction to the history of punctuation in the
+    West'
+  title-short: Pause and effect
+  publisher: Ashgate
+  publisher-place: Aldershot, Hampshire
+  event-place: Aldershot, Hampshire
+  number-of-pages: 327
+  source: Library of Congress ISBN
+  ISBN: 0520079418
+  call-number: P301.5.P86 P37 1992
+
+- id: dunning:2015samuel
+  type: book
+  author:
+  - family: Dunning
+    given: Andrew
+  issued:
+  - year: 2015
+  title: 'Samuel Presbiter. Notes from the School of William de Montibus: Collecta
+    ex diuersis auditis in scola magistri Willelmi de Monte'
+  collection-title: Toronto Medieval Latin Texts
+  collection-number: 33
+  publisher: Pontifical Institute of Mediaeval Studies
+  publisher-place: Toronto
+  event-place: Toronto
+  language: Latin
+
+- id: quentin:1922mémoire
+  type: book
+  author:
+  - family: Quentin
+    given: Henri
+  issued:
+  - year: 1922
+  accessed:
+  - year: 2014
+    month: 4
+    day: 28
+  title: Mémoire sur l’établissement du texte de la Vulgate
+  collection-title: Collectanea biblica latina
+  collection-number: 6
+  publisher: Desclée
+  publisher-place: Rome
+  event-place: Rome
+  number-of-pages: 550
+  source: Internet Archive
+  URL: http://archive.org/details/mmoiresurlta01quenuoft
+  call-number: BBM-1174
+  language: fre
+
+- id: bestul:1999meditation
+  type: article-journal
+  author:
+  - family: Bestul
+    given: Thomas H.
+  issued:
+  - year: 1999
+  accessed:
+  - year: 2013
+    month: 5
+    day: 4
+  title: The Meditation on Mary Magdalene of Alexander Nequam
+  container-title: The Journal of Medieval Latin
+  page: 1-40
+  volume: 9
+  source: MetaPress
+  URL: http://dx.doi.org/10.1484/J.JML.2.304112
+  DOI: 10.1484/J.JML.2.304112
+
+- id: ziolkowski:2011laude
+  type: chapter
+  author:
+  - family: Ziolkowski
+    given: Jan M.
+  editor:
+  - family: Kihlman
+    given: Erika
+  - family: Searby
+    given: Denis Michael
+  issued:
+  - year: 2011
+  title: '*<span class="nocase">De laude scriptorum manualium</span>* and *<span
+    class="nocase">De laude editorum</span>*: From Script to Print, From Print to
+    Bytes'
+  container-title: '<span class="nocase">Ars edendi</span>: lecture series'
+  collection-title: Acta Universitatis Stockholmiensis, Studia Latina Stockholmiensia
+  collection-number: 51
+  publisher: Stockholm University
+  publisher-place: Stockholm
+  event-place: Stockholm
+  page: 25-58
+  volume: 1
+  source: Library of Congress ISBN
+  URL: http://nbn-resolving.org/urn:nbn:se:su:diva-66296
+  ISBN: 9789186071707 9789186071950
+  call-number: PN162 .A78 2011
+
+- id: van_liere:2014text
+  type: chapter
+  author:
+  - family: Liere
+    given: Frans
+    non-dropping-particle: van
+  issued:
+  - year: 2014
+  title: The Text of the Medieval Bible
+  container-title: An Introduction to the Medieval Bible
+  publisher: Cambridge University Press
+  publisher-place: New York
+  event-place: New York
+  page: 80-109
+  URL: http://doi.org/10.1017/CBO9780511843051.005
+  DOI: 10.1017/CBO9780511843051.005
+  ISBN: 9780511843051
+  call-number: BS68 .L54 2014
+
+- id: ott:1979text
+  type: article-journal
+  author:
+  - family: Ott
+    given: Wilhelm
+  issued:
+  - year: 1979
+    month: 3
+  accessed:
+  - year: 2015
+    month: 6
+    day: 18
+  title: A text processing system for the preparation of critical editions
+  container-title: Computers and the Humanities
+  container-title-short: Comput Hum
+  page: 29-35
+  volume: 13
+  issue: 1
+  source: link.springer.com
+  URL: http://link.springer.com/article/10.1007/BF02744990
+  DOI: 10.1007/BF02744990
+  ISSN: 0010-4817, 1572-8412
+  language: en
+
+- id: hetzenauer:1906biblia
+  type: book
+  editor:
+  - family: Hetzenauer
+    given: Michael
+  issued:
+  - year: 1906
+  title: Biblia sacra Vulgatae editionis, ex ipsis exemplaribus Vaticanis inter se
+    atque cum indice errorum corrigendorum collatis
+  publisher: Wagner
+  publisher-place: Innsbruck
+  event-place: Innsbruck
+  number-of-pages: 1142
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: Bible Lat H
+  language: Latin
+
+- id: witt:2015texts
+  type: chapter
+  author:
+  - family: Witt
+    given: Jeffrey C.
+  editor:
+  - family: Rosemann
+    given: Philipp W.
+  issued:
+  - year: 2015
+  accessed:
+  - year: 2015
+    month: 1
+    day: 30
+  title: 'Texts, media, and re-mediation: the digital future of the *Sentences*
+    commentary tradition'
+  title-short: Texts, Media, and Re-Mediation
+  container-title: Mediaeval Commentaries on the *Sentences* of Peter Lombard
+  publisher: Brill
+  publisher-place: Leiden
+  event-place: Leiden
+  page: 504-515
+  volume: 3
+  number-of-volumes: 3
+  source: CrossRef
+  URL: https://doi.org/10.1163/9789004283046_011
+  DOI: 10.1163/9789004283046_011
+  ISBN: 9789004283046
+  language: en
+
+- id: smith:1992precursors
+  type: article-journal
+  author:
+  - family: Smith
+    given: Julian A.
+  issued:
+  - year: 1992
+    month: 3
+  accessed:
+  - year: 2013
+    month: 10
+    day: 31
+  title: 'Precursors to Peregrinus: The early history of magnetism and the mariner’s
+    compass in Europe'
+  title-short: Precursors to Peregrinus
+  container-title: Journal of Medieval History
+  container-title-short: Journal of Medieval History
+  page: 21-74
+  volume: 18
+  issue: 1
+  source: ScienceDirect
+  abstract: Histories of magnetism and the mariner’s compass have usually been restricted
+    to a few brief descriptions by Alexander Neckam, Guyot de Provins and Jacques
+    de Vitry, followed by the important Epistola de Magnete of of Peter Peregrinus
+    (1269). But by reviewing the many other early European references to the mariner’s
+    compass, we find that there is little in Peregrinus that originating, knowledge
+    of the compass.
+  URL: http://www.sciencedirect.com/science/article/pii/030441819290016R
+  DOI: 10.1016/0304-4181(92)90016-R
+  ISSN: 0304-4181
+
+- id: pontifical_abbey_of_st_jerome-in-the-city:1926biblia
+  type: book
+  editor:
+  - literal: Pontifical Abbey of St Jerome-in-the-City
+  issued:
+  - year: 1926
+  - year: 1995
+  title: Biblia Sacra iuxta latinam vulgatam versionem
+  publisher: Libreria Editrice Vaticana
+  publisher-place: Rome
+  event-place: Rome
+  number-of-pages: 266
+  number-of-volumes: 18
+  source: toroprod.library.utoronto.ca Library Catalog
+  ISBN: 8820921286
+  call-number: BS75 1926 v.18 IMS
+  language: Latin
+
+- id: hunt:1984schools
+  type: book
+  author:
+  - family: Hunt
+    given: R.W.
+  editor:
+  - family: Gibson
+    given: Margaret T.
+  issued:
+  - year: 1984
+  title: 'The Schools and the Cloister: The Life and Writings of Alexander Nequam
+    (1157–1217)'
+  title-short: Schools
+  publisher: Clarendon Press
+  publisher-place: Oxford
+  event-place: Oxford
+  source: toroprod.library.utoronto.ca Library Catalog
+  note: 'Local call number: 189.4 .N442 h. 942s OISE/UT Local call number: PA 8390
+    .Z64 IMS Local call number: BX 4705 .N395H86 1984 TRIN Local call number: BX 4705
+    .N34H86 1984 ROBA Physical description: xiii, 165 p., 2 p. of plates : ill. ;
+    23 cm Subject, personal: Neckam, Alexander, 1157-1217 History note: Originally
+    presented as the author’s thesis (doctoral–Oxford, 1936) under title: Alexander
+    Nequam Bibliography note: Bibliography: p. \[125\]-149 key: 2117999'
+  abstract: R. W. Hunt’s doctoral thesis, a factual rather than interpretative account
+    of Nequam, a leading grammarian, scholar, and eventual monk, including Nequam’s
+    well-constructed vocabulary *De nominibus utensilium*, “Of the names of useful
+    things,” which was arranged as an account of the features and pursuits of everyday
+    life.
+  ISBN: 0198223986
+  call-number: BX4705 .N34 H86 1984
+
+- id: letis:2002vulgata
+  type: article-journal
+  author:
+  - family: Letis
+    given: Theodore P.
+  issued:
+  - year: 2002
+    month: 1
+  accessed:
+  - year: 2015
+    month: 6
+    day: 18
+  title: 'The *Vulgata Latina* as sacred text: What did the Council of Trent mean
+    when it claimed Jerome’s Bible was *authentica*?'
+  title-short: The *Vulgata Latina* as Sacred Text
+  container-title: Reformation
+  page: 1-21
+  volume: 7
+  issue: 1
+  source: CrossRef
+  URL: http://www.maneyonline.com/doi/10.1179/ref_2002_7_1_002
+  DOI: 10.1179/ref_2002_7_1_002
+  ISSN: 1357-4175, 1752-0738
+
+- id: timpanaro:2005genesis
+  type: book
+  author:
+  - family: Timpanaro
+    given: Sebastiano
+  translator:
+  - family: Most
+    given: Glenn W.
+  issued:
+  - year: 2005
+  title: The genesis of Lachmann’s method
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  event-place: Chicago
+  number-of-pages: 252
+  source: Library of Congress ISBN
+  ISBN: 0226804054 0226804062
+  call-number: PD64.L3 T5613 2005
+  language: eng
+
+- id: silva:1969identification
+  type: article-journal
+  author:
+  - family: Silva
+    given: Georgette
+  - family: Love
+    given: Harold
+  issued:
+  - year: 1969
+    month: 10
+  accessed:
+  - year: 2015
+    month: 6
+    day: 22
+  title: The identification of text variants by computer
+  container-title: Information Storage and Retrieval
+  container-title-short: Information Storage and Retrieval
+  page: 89-108
+  volume: 5
+  issue: 3
+  source: ScienceDirect
+  abstract: This paper is an exhaustive description of a working program for collating
+    texts. The procedure identifies text variants ranging from minute differences
+    in punctuation and spelling to additions and deletions of larger portions of text.
+    The aim of the procedure is to bring lineation of all texts to be compared into
+    conformity with that of the base-text and to print out all variants in the texts
+    beneath the base-text. The program accepts input in running text form from magnetic
+    tape and does not require any editing or reorganizing of data prior to processing.
+    Comparisons are carried out on a line for line basis, and searches for new correspondences
+    when the texts are out of phase extend over an interval of twenty lines each side
+    of the current line. The report also contains flowcharts and complete program
+    listings, and fills a definite need in the area of variant identification since
+    no other program written in a higher level language has so far been made public.
+    Originally written in FORTRAN 32 for the CDC 3000 series computers, the program
+    is so designed as to make the conversion to another machine a realistic enterprise.
+    Both the problem of operation of the system and possible adaptation to other machines
+    is discussed from the viewpoint of the user, and some suggestions for further
+    development are offered.
+  URL: http://www.sciencedirect.com/science/article/pii/002002716990014X
+  DOI: 10.1016/0020-0271(69)90014-X
+  ISSN: 0020-0271
+
+- id: baron:1969quinque
+  type: chapter
+  editor:
+  - family: Baron
+    given: Roger
+  issued:
+  - year: 1969
+  title: De quinque septenis
+  container-title: Hugues de Saint-Victor. Six opuscules spirituels
+  collection-title: Sources chrétiennes
+  collection-number: 155
+  publisher: Cerf
+  publisher-place: Paris
+  event-place: Paris
+  page: 100–118
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: B765 .H73 S4914 1969 IMS
+  language: French
+
+- id: parkes:1994latin
+  type: chapter
+  author:
+  - family: Parkes
+    given: M.B.
+  editor:
+  - family: Chiesa
+    given: Paolo
+  - family: Pinelli
+    given: Lucia
+  issued:
+  - year: 1994
+  title: 'Latin autograph manuscripts: orthography and punctuation'
+  container-title: 'Gli autografi medievali: Problemi paleografici e filologici.
+    Atti del convegno di studio della Fondazione Ezio Franceschini, Erice, 25 settembre–2
+    ottobre 1990'
+  collection-title: Quaderni di cultura mediolatina
+  collection-number: 5
+  publisher: Centro italiano di studi sull’alto Medioevo
+  publisher-place: Spoleto
+  event-place: Spoleto
+  page: 23-36
+  source: Library of Congress ISBN
+  ISBN: 8879885944
+  call-number: Z106.5.E85 A98 1994
+  language: Texts in English, French, German, Italian, and Spanish
+
+- id: pierazzo:2011rationale
+  type: article-journal
+  author:
+  - family: Pierazzo
+    given: Elena
+  issued:
+  - year: 2011
+    month: 1
+    day: 12
+  accessed:
+  - year: 2015
+    month: 6
+    day: 18
+  title: A rationale of digital documentary editions
+  container-title: Literary and Linguistic Computing
+  container-title-short: Lit Linguist Computing
+  page: 463-477
+  volume: 26
+  issue: 4
+  source: llc.oxfordjournals.org
+  abstract: 'Publishing the diplomatic edition of a document on the web instead
+    of in print implies a series of methodological and practical changes in the nature
+    of the published text and in the operations to be performed by the editors. For
+    print the choice of which features to include in the transcription is limited
+    largely by the limits of the publishing technology. In contrast, the digital medium
+    has proved to be much more permissive and so editors need new scholarly guidelines
+    to establish ‘where to stop’. This article discusses a list of criteria and parameters
+    for choosing which features to include in transcriptions. It also sketches the
+    theoretical implications which result from the change of medium and technology.
+    It is argued that the very definition of ‘diplomatic edition’ needs to be substantially
+    revised if the edition is published on the web. Even more importantly, the discussion
+    argues for the existence of a new editorial object which is generated by the changed
+    conditions: a new publication form called the ‘digital documentary edition’ which
+    is composed of the source, the outputs and the tools able to produce and display
+    them.'
+  URL: http://llc.oxfordjournals.org/content/26/4/463
+  DOI: 10.1093/llc/fqr033
+  ISSN: 0268-1145, 1477-4615
+  language: en
+
+- id: mahoney:1971critical
+  type: thesis
+  author:
+  - family: Mahoney
+    given: Denis Gerard
+  issued:
+  - year: 1971
+  accessed:
+  - year: 2013
+    month: 4
+    day: 29
+  title: A Critical Edition of Alexander Nequam’s *Tractatus super mulierem fortem,*
+    Section One
+  publisher: University of Illinois at Urbana-Champaign
+  number-of-pages: 280
+  source: ProQuest
+  genre: PhD diss.
+  URL: http://search.proquest.com/docview/302621665
+  language: Latin
+...
